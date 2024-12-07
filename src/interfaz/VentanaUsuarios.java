@@ -78,7 +78,7 @@ public class VentanaUsuarios extends JFrame {
 
         add(panel);
     }
-
+//n
 	public VentanaUsuarios() {
 	}
 }
