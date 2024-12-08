@@ -17,10 +17,13 @@ La arquitectura de la aplicación está basada en un patrón de diseño MVC, don
 *Vista:* Interfaz gráfica construida con Swing.
 *Controlador:* Gestiona los eventos de la interfaz y comunica las acciones del usuario con el modelo.
 
-1. [Descripción](#descripcion)
-2. [Problema Identificado](#problema-identificado)
-3. [Solución](#solución)
-4. [Arquitectura](#arquitectura)
+1. [Requerimientos](#requerimientos)
+2. [Instalación](#instalación)
+3. [Configuración](#configuración)
+4. [Uso](#uso)
+5. [Contribución](#contribución)
+6. [Roadmap](#roadmap)
+7. [Demostración](#demostración)
 
 - [Wiki del proyecto en GitHub](https://github.com/NaiCharles/EstacionBrava/wiki
 
@@ -93,8 +96,25 @@ Sera el mismo, como se indico, solamente tendra accesos los administradores.
 
 Guía de contribución para usuarios.
 
-Ingrese a Git Bas
+Ingrese a Git Bash
+Conar el repositorio con: git clone https://github.com/tu-usuario/proyecto.git
 
+Crear el nuevo brench: git checkout -b nombre-de-tu-branch
+
+Realizar cambios y hacer commit: git add .
+git commit -m "Descripción de los cambios"
+
+Enviar el Pull Request:
+
+Ve al repositorio en GitHub y envía el Pull Request.
+
+Esperar la revisión: El Pull Request será revisado y fusionado por los mantenedores del repositorio.
+
+
+Requerimientos que se implementarán en un futuro.
+
+Mejoras en la interfaz gráfica: Añadir más colores, íconos y optimizar la experiencia del usuario.
+Autenticación avanzada: Implementar un sistema de autenticación con roles más específicos y contraseñas seguras.
 
 Para iniciar el programa, tendra que: 1.- Ingresar su usuario y contraseña (adjuntado en la entrega del programa como primer usuario).
 
