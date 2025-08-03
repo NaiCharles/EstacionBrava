@@ -21,7 +21,7 @@ Base de datos local (por ejemplo, SQLite o H2) para almacenar los datos de produ
 Interfaz de línea de comandos (CLI) para la interacción del usuario.
 
 *Tabla de contenidos*
-
+EN LA WIKI
 
 *Requerimientos*
 Software Requerido:
