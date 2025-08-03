@@ -69,7 +69,8 @@ Gestión de inventario avanzada: Funciones para seguimiento de stock y alertas.
 Generación de reportes: Reportes automáticos de ventas, productos y clientes.
 Autenticación de usuario: Implementar un sistema de inicio de sesión para usuarios administrativos.
 
-
+*Acceso a la aplicacion*
+Contraseña: 123456
 
 
 
